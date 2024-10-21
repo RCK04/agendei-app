@@ -1,4 +1,6 @@
+//login
 import Login from "./src/screens/login/login.jsx";
+//conta
 import Account from "./src/screens/account/account.jsx";
 
 function App() {
